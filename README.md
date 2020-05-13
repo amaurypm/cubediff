@@ -9,7 +9,7 @@ writes the maps in other format, OpenDX scalar, that need to be converted to a G
 [openbabel](http://openbabel.org/wiki/Main_Page)).
 
 For this subtraction to make sense both maps sources should be similar/related proteins (homologs, mutants,
-chimeric variants, etc) and being structural superimposed when the electrostatic
+chimeric variants, etc) and being structurally superimposed when the electrostatic
 potential maps are calculated.
 
 When the size of both maps are not equal, the second (reference) map, es resized by interpolation to
